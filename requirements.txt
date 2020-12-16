@@ -9,7 +9,7 @@ wooper
 sphinx
 sphinx-autobuild
 sphinxcontrib-plantuml
-docutils==0.15.1
+docutils
 requests-mock
 responses
 .
