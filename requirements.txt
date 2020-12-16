@@ -12,4 +12,3 @@ sphinxcontrib-plantuml
 docutils==0.15.1
 requests-mock
 responses
-.
